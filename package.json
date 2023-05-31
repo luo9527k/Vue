@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "sass": "^1.62.1",
     "scss": "^0.2.4",
+    "scss-loader": "^0.0.1",
     "vue": "^3.2.47"
   },
   "devDependencies": {
